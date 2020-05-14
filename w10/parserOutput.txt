@@ -1,0 +1,6 @@
+111111111 utorid1 lastName1,firstName1 5.0 5.0
+222222222 utorid2 lastName2,firstName2 2.5 4.0
+333333333 utorid3 lastName3,firstName3 2.5 4.0
+444444444 utorid4 lastName4,firstName4 3.5 3.0
+555555555 utorid5 lastName5,firstName5 2.0 2.0
+666666666 utorid6 lastName6,firstName6 2.5 4.0

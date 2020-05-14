@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:lushijie      email:shijie.lu@mail.utoronto.ca     utorid:lushijie   
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today: User story 1.01
+	Obstacles I face:US 1.01
+
+Oct 27,2019
+	What I did yesterday:User Story 1.01
+	What I will do today:more user story 
+	Obstacles I face: laptop set up failed
+
+Oct 28,2019
+	What I did yesterday:set up laptop environment
+	What I will do today: user Story 1.07
+	Obstacles I face: bad structure
+
+Oct 29,2019
+	What I did yesterday: try to finish User Story 1.08
+	What I will do today: 
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: finished User Story 1.08
+	What I will do today: midterms
+	Obstacles I face: midterms
+
+Oct 31,2019
+	What I did yesterday: midterms
+	What I will do today: midterms
+	Obstacles I face: midterms
+
+Nov 1,2019
+	What I did yesterday: more midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 2,2019
+	What I did yesterday:midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 3,2019
+	What I did yesterday:midterms
+	What I will do today: midterms
+	Obstacles I face:midterms
+
+Nov 4,2019
+	What I did yesterday:midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 5,2019
+	What I did yesterday:midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 6,2019
+	What I did yesterday:midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 7,2019
+	What I did yesterday:midterms
+	What I will do today:midterms
+	Obstacles I face:midterms
+
+Nov 8,2019
+	What I did yesterday:midterms
+	What I will do today:csc236 ps3
+	Obstacles I face:csc236 ps3
+
+Nov 9,2019
+	What I did yesterday: csc236 ps3
+	What I will do today: change structure of the project to Othello extends Observable
+	Obstacles I face: US1.08 fixes
+
+Nov 10,2019
+	What I did yesterday: US1.08
+	What I will do today: finished US1.08
+	Obstacles I face: PlayerRandom not perfect
+
+Nov 11,2019
+	What I did yesterday: US 1.10
+	What I will do today: US1.10
+	Obstacles I face: bad structure
+
+Nov 12,2019
+	What I did yesterday: 236 midterm
+	What I will do today: 236 midterm
+	Obstacles I face: 236 midterm
+
+Nov 13,2019
+	What I did yesterday: midterm 
+	What I will do today: midterm
+	Obstacles I face: midterm
+
+Nov 14,2019
+	What I did yesterday: midterm
+	What I will do today: US1.10, fix some design issue
+	Obstacles I face: no
+
+Nov 15,2019
+	What I did yesterday: US1.10
+	What I will do today: more User Story
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday: structure changed have to re do US1.08
+	What I will do today: structure changed have to re do US1.08
+	Obstacles I face: found some bugs in my program
+
+Nov 17,2019
+	What I did yesterday:re do US1.08
+	What I will do today: fix bugs, add some documentation
+	Obstacles I face: AI Hints for random bugs
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

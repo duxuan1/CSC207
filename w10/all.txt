@@ -1,0 +1,42 @@
+::::::::::::::
+utorid1/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 5/5
+CODE: 5/5
+END MARKS
+::::::::::::::
+utorid2/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 2.5/5
+CODE: 4/5
+END MARKS
+::::::::::::::
+utorid3/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 2.5/5
+CODE: 4/5
+END MARKS
+::::::::::::::
+utorid4/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 3.5/5
+CODE: 3/5
+END MARKS
+::::::::::::::
+utorid5/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 2/5
+CODE: 2/5
+END MARKS
+::::::::::::::
+utorid6/JugPuzzleGame/src/JugPuzzleGUIController.java
+::::::::::::::
+MARKS For Assignment 1, Part 2
+GUI: 2.5/5
+CODE: 4/5
+END MARKS

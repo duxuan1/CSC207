@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Alex Quach     email: alexruifeng.quach@mail.utoronto.ca    utorid: quachal5  
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today: csc236 midterm1 revision
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today: csc236 midterm1 revision
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today: set up eclipse
+	Obstacles I face: setting up eclipse so that everything compiles and can run
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today: learn about branching and how to merge files
+	Obstacles I face: merge conflicts, and how branches actually work
+
+Oct 29,2019
+	What I did yesterday:
+	What I will do today: user story 1.06, changed tokens from 'X' and 'O' to their respective image tokens
+	Obstacles I face: learn how to load images into the program
+
+Oct 30,2019
+	What I did yesterday:
+	What I will do today: finished some debugging on us1.06
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today: csc290 midterm revision/mat223 hw5
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today: csc290 midterm revision
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today: mat223 test revision/sta256 test revision
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today: mat223 test revision/sta256 test revision
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today: mat223 test revision/sta256 test revision
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today: csc236 problem set 3
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today: csc236 problem set 3
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today: csc290 project doc/repo 
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today: csc236 midterm2 revision/csc290 project doc/repo
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today: csc236 midterm2 revision
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today: csc236 midterm2 revision
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today: csc290 critical review
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today: csc290 critical review 
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

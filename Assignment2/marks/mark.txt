@@ -1,0 +1,148 @@
+Commit ID: bfbb148e140866010ff8cf9a52538462225a9254
+DOCUMENTATION	5 / 5
+	5: Most or all function they have proper Javadoc
+	4: 
+	3: some meaningful documentation, 50% of the criteria, done well.
+	2: 
+	1: nonsense/limited documentation
+
+CODING STYLE	2 / 5 
+	5: Most or all function they have proper coding style 
+	4: 
+	3: some meaningful coding style, 50% of the criteria, done well. *1 *2
+	2:
+	1: nonsense/messy coding style
+
+GUI Functionality   8 / 9
+	[Y] User has option to select which opponent to play against (Human, Greedy or Random)
+	[Y] GUI displays number of P1 and P2 tokens on board
+	[Y] GUI properly displays who wins when game is over
+	[Y] Appropriate player token is placed when a spot is clicked
+	[Y] Appropriate tokens are flipped is when a player places their token
+	[Y] Undo working, a button click rewinds the game to the previous human move
+	[Y] Restart working, clicking on the button brings the game to the initial state
+	[Y] Timers working, each timer times one player, and the length of the timer can be specifed.
+	[N] The better player strategy is implemnented and working correctly.
+
+
+Architecture   1 / 11
+	Strategy   1 / 3
+		Setting player strategy (Human, Greedy and Random)
+
+		[N] There is a base strategy class and there are child strategy classes.
+		[N] The player has a method to set its strategy and has a method to retrieve a move from the strategy.
+		[Y] Has strategy classes for Human, Greedy and Random Player  
+		
+	Factory   0 / 2
+		Constructing the different strategies
+
+		[N] There exists a factory class, with a method similar to createProduct(String s). *3
+		[N] Factory is used to return a Player Strategy
+		
+	Command   0 / 2
+		Objectifying moves
+
+		[N] Command or Moves are objects.
+		[N] There command/move objects are stored in a list in Othello.
+		
+	Visitor   0 / 4
+		Using visitors to visit places on the board
+		
+		[N] There is a base class Visitor.
+		[N] OthelloBoard has an 'accept(Visitor v)'.
+		[N] Each visitor class has a 'visit(OthelloBoard b)' method. 
+		[N] There are at least two separate visitors, e.g., MoveVisitor and HashMoveVisitor.
+
+sprintBacklogs   4 / 4
+	[Y] User stories in springBacklog1 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog2 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog3 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog4 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+
+Git   3 / 4
+	[Y] Branches on user stories (With reasonable naming convention)
+	[N] No/little code commits on master
+	[Y] Merges back to master
+	[Y] Git history looks relatively straightforward
+
+Members: Each member is given a fraction of the total amount of work
+	for the project. This is based on the user stories they worked on.
+	If all members appeared to work the same amount, each gets 25%.
+	If all members contribute equally, each gets 25/100.
+
+WORK BY UTORIDS 
+INDIVIDUAL: duxuan1 42/100
+	BUG #0.02 - Configure and use system
+	BUG #1.021 - Check Architecture
+	BUG #1.06 - Bug fixed US1.06
+	USER STORY #1.011 - OthelloGUI Buttons Active Console View
+	USER STORY #1.012 - OthelloGUI
+	USER STORY #1.01 - OthelloGUI Buttons Active Console View
+	USER STORY #1.02 - Othello Board Human VS Human
+	USER STORY #1.03 - Whos Next
+	USER STORY #1.04 - Token Counter
+	USER STORY #1.11 - Restart
+	USER STORY #1.12 - Undo
+	USER STORY #1.14 - Available moves
+	USER STORY #1.15 - Better strategy
+INDIVIDUAL: liuzechu 16/100
+	BUG #0.03 - Configure and use system
+	BUG #1.093 - Whoswon can't not show up
+	USER STORY #1.091 - Othello Timer User Specified Time
+	USER STORY #1.092 - Reset Timer
+	USER STORY #1.093 - Timer run out of time
+	USER STORY #1.09 - Reset Timer
+INDIVIDUAL: lushijie 34/100
+	BUG #0.01 - Configure and use system
+	BUG #2.0 - Player Random issue
+	BUG #3 - human move validation
+	USER STORY #1.01 - OthelloGUI Buttons Active Console View
+	USER STORY #1.071 - Opponent Chooser GUI Display
+	USER STORY #1.078 - Opponent Chooser Partial Implementation
+	USER STORY #1.079 - Opponent Chooser Partial Implementation no COMPUTER_MOVE button
+	USER STORY #1.07 - Opponent Chooser GUI Selection
+	USER STORY #1.08 - Opponent Chooser Implementation
+	USER STORY #1.101 - AI Greedy Hint
+	USER STORY #1.102 - AI Random Hint
+	USER STORY #1.10 - AI Hint
+INDIVIDUAL: quachal5 8/100
+	USER STORY #1.13 - Animation
+	BUG #0.04 - Configure and use system
+	USER STORY #1.06 - Change tokens to Images
+
+DailyScrum
+	INDIVIDUAL: duxuan1 0/1
+	INDIVIDUAL: liuzechu 0.5/1
+	INDIVIDUAL: lushijie 1.0/1
+	INDIVIDUAL: quachal5 0.9/1
+
+FINAL MARK FOR A2:
+duxuan1: 27.24949197924436000149 / 40
+liuzechu: 22.68153369687468587086 / 40
+lushijie: 27.55969572121875429497 / 40
+quachal5: 21.31605611784240198977 / 40
+
+---------------------------------
+HOW THE FINAL MARK IS CALCULATED:
+
+group_mark = DOCUMENTATION + CODING STYLE + GUI FUNCTIONALITY + ARCHITECTURE + SPRINT BACKLOGS + GIT
+
+individual_mark = (WORK BY UTORID + 10 * DailyScrum) * 100 / 110
+
+final_grade = group_mark * (A ln(individual_mark + 1) + B) + C
+
+where:
+A = 0.29734
+B = 0.0070976
+C = 2
+
+The values of A, B, C are chosen so that:
+- if WORK BY UTORID is close to 0, then the student gets close to 0% of the group mark
+- if WORK BY UTORID is close to 25%, then the student gets close to 100% of the group mark
+- a WORK BY INDIVIDUAL of 100% led to a maximum of 105% over all students.
+- The average adjusted mark is similar to the average of the unadjusted marks, so marks are approximately conserved.
+
+NOTES: 
+*1 Implementing event handler on some classes but calling handle manually? Example strategy 
+*2 Strategies are not being used? getMove() calls A1 player classes? Strategies are EventHandlers? Code duplication for handle() method in the strategies classes
+*3 This is not really factory, your factory is an EventHandler? It does not return "products".

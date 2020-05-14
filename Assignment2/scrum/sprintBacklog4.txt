@@ -1,0 +1,189 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 10 : UTORID : lushijie STATUS : complete 
+NAME     : fix, and add more controller for each button press
+OWNER    : lushijie
+PRIORITY : 3
+ESTIMATE : 1 hour ACTUAL : 1 hour
+ISSUE    : used to have only one controller, which is bad for extensibility
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : UTORID :lushijie STATUS : Complete
+NAME     : AI Hint
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+
+NOTE: Add some other user stories (1.101, 1.102, ...) which improve on this,
+For example: 
+1) Instead of displaying the (row,col) how about highlighting the position
+on the board.
+
+2) User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+
+3) As in 2, but a random hint
+...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.101 : UTORID :lushijie STATUS : Complete
+NAME     : AI Greedy Hint
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+NOTE: User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.102 : UTORID :lushijie STATUS : Complete
+NAME     : AI Random Hint
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+
+NOTE: User can select a menu item/checkbox etc. to have, for example, the random hint highlighted
+on the board at all times. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 11.1 : UTORID : lushijie STATUS : inprogress 
+NAME     : AI Random hint sometimes doesn't show up
+OWNER    : lushijie
+PRIORITY : 3
+ESTIMATE : 1 hour ACTUAL : 
+ISSUE    : as name says
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : duxuan1 STATUS : Complete
+NAME     : Restart
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  10 mins
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID : duxuan1 STATUS : Complete
+NAME     : Undo
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 4 days    ACTUAL :  4 days
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID : quachal5 STATUS : Complete
+NAME     : Animation
+OWNER    : Alex Quach
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  30min
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.06 : UTORID : duxuan1 STATUS : Complete
+NAME     : Bug fixed US1.06
+OWNER    : Xuan.Du
+PRIORITY : 3
+ESTIMATE : 1 hour ACTUAL : 10 mins
+ISSUE    : US1.06 used images from outside sources and causing runtime error,
+now all tokens image switch to javaFX circle and bug fixed.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : UTORID : duxuan1 STATUS : Complete
+NAME     : Available moves
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 1 day
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : duxuan1 STATUS : Complete
+NAME     : Better strategy
+OWNER    : Xuan.Du
+PRIORITY : (1,2,3)
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Use Visitor for Othello board
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the 
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.092 : UTORID : liuzechu  STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Reset Timer
+OWNER    : zechuan liu 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, user can change time limit if they think their first set up of time 
+is too quick or too slow. They can do this by the button reset timer.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.093 : UTORID : liuzechu  STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Timer run out of time
+OWNER    : zechuan liu 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : The game will finish if one player's time run out, and the winner will be
+his opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.093 : UTORID : liuzechu STATUS : Complete
+NAME     : Whoswon can't not show up 
+OWNER    : zechuan liu
+PRIORITY : (1,2,3)
+ESTIMATE : 20mins ACTUAL : 20mins
+ISSUE    : When the game actually is finished, it will show "GAME OVER TIME OUT".
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Architecture Document
+OWNER    : 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 2.0 : UTORID : lushijie STATUS : Complete
+NAME     : Player Random issue
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  
+ISSUE    : Player Random sometimes don't play when user playing VsRandom
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 3 : UTORID : lushijie STATUS : Complete
+NAME     : human move validation
+OWNER    : lushijie
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL :  20 min
+ISSUE    : some human moves are not valid and program need to recognize them
+i.e.: when human playing with greedy, and human click on a blank spot,
+ greedy will continue playing on human chips, and human, greedy swapped
+ their chips
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

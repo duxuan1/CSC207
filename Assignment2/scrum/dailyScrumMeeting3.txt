@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: zechuan liu     email:zechuan.liu@mail.utoronto.ca     utorid:liuzechu  
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday: Learn about the process of the whole assignment
+	What I will do today: finish the set up and bug 0.03
+	Obstacles I face: environment set up and merge issues
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday: nothing
+	What I will do today: Figure out the branch and try to learn about bug1.011 and bug1.02.
+	Obstacles I face: 
+
+Oct 29,2019
+	What I did yesterday: 
+	What I will do today:
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: 
+	What I will do today:
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday: try to get timer works
+	What I will do today: finished user story 1.09
+	Obstacles I face: not sure how to reset time when change player
+
+Nov 3,2019
+	What I did yesterday: user story 1.09
+	What I will do today: finished user story 1.09
+	Obstacles I face: not sure how to let timer.java to be a view 
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday: Finished user story 1.09
+	What I will do today:  user story 1.091
+	Obstacles I face: Get user input for timer
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: US1.091
+	What I will do today: Finish US1.091
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday: US1.091
+	What I will do today: Add new feature for timer
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday: US 1.092 adn US 1.093
+	What I will do today: fix some bug
+	Obstacles I face: BUG 1.093
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

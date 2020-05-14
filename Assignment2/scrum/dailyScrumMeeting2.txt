@@ -1,0 +1,223 @@
+# Fill in, commit and push each day.
+Member name:    email:     utorid:   
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today: Completed US1.01 and bug0.02
+	Obstacles I face: OthelloApplication implementation
+
+Oct 27,2019
+	What I did yesterday: Completed US1.01 and bug0.02
+	What I will do today: US1.011 InProgress
+	Obstacles I face: US1.011
+
+Oct 28,2019
+	What I did yesterday: US1.011 InProgress
+	What I will do today: Working on US1.012 and Completed US1.011
+	Obstacles I face: 
+
+Oct 29,2019
+	What I did yesterday: Working on US1.012 and Completed US1.011
+	What I will do today: Completed US1.012, US1.03, US1.04, US1.05
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: I completed US1.012, US1.03, US1.04, US1.05
+	What I will do today: Completed BUG 1.02, change the architecture to MVC
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today: I fixed the merge conflict
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday: I fixed the merge conflict
+	What I will do today: US1.11 and US1.12
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday: Will working on mid term next several days
+	What I will do today:
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday: 
+	What I will do today: Convert OthelloModel to Othello by change othello to observable 
+	Obstacles I face: 
+
+Nov 10,2019
+	What I did yesterday: Working on US1.12
+	What I will do today: Working on US1.14, US1.12
+	Obstacles I face: 
+
+Nov 11,2019
+	What I did yesterday: Working on US1.14
+	What I will do today: Completed US1.14
+	Obstacles I face: US1.12 is not working 
+
+Nov 12,2019
+	What I did yesterday: Completed US1.14
+	What I will do today: Completed US1.12
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday: Completed US1.12
+	What I will do today: Working on structure, simplify the code
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday: Working on structure, simplify the code
+	What I will do today: I replaced gridpane's buttons with new observer button, improving the structure
+	Obstacles I face: I found unknown bug for US1.12(Press undo twice will restart the game)
+	and it used to not having this issue.
+
+Nov 15,2019
+	What I did yesterday: I replaced gridpane's buttons with new observer button, improving the structure
+	What I will do today: Completed US1.15, and Solving BUG1.12
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday: Completed US1.15, and Solving BUG1.12
+	What I will do today: Added strategy and factory pattern for othello application
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday: Added strategy and factory pattern for othello application
+	What I will do today: added documentation 
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

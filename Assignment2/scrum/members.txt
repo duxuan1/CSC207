@@ -1,0 +1,7 @@
+Member1 name:lu shijie        email:shijie.lu@mail.utoronto.ca        utorid:lushijie
+Member2 name:Xuan.Du        email:xuand.du@mail.utoronto.ca        utorid:duxuan1
+Member3 name:Zechuan Liu        email:zechuan.liu@mail.utoronto.ca        utorid:liuzechu
+Member4 name:Alex Quach       email:alexruifeng.quach@mail.utoronto.ca        utorid:quachal5
+
+Coach: Michelle luo
+Email: mich.luo@mail.utoronto.ca

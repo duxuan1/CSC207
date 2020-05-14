@@ -1,0 +1,87 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 27-Nov 02, 2019
+# Sprint 2 Backlog UserStories go below
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.011 : UTORID :duxuan1 STATUS : Complete
+NAME     : OthelloGUI Buttons Active, Console View
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 1 day
+ISSUE    : The users can now use the OthelloGUI created in US1.01 
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. This basically replaces the keyboard
+in the old HumanVSHuman game, but the output is still on the console.
+
+NOTE: Make sure that you are using good MVC principles in implementing this.
+If you didn't then file BUG 1.012 to fix the implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.012 : UTORID : duxuan1 STATUS : Complete
+NAME     : OthelloGUI 
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : The users can now use the OthelloGUI created in US1.011
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : UTORID :duxuan1 STATUS : Complete
+NAME     : Othello Board Human VS Human
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.012 
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : UTORID : duxuan1 STATUS : Complete
+NAME     : Check Architecture
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 1 day    ACTUAL : 1 day
+ISSUE    : If your code is not MVC right now, fix it to MVC. Pay the price
+now to create a good architecture, rather than clean up a lot of code later.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : UTORID : duxuan1 STATUS : Complete
+NAME     : Whos Next
+OWNER    : Xuan.Du
+PRIORITY : (1,2,3)
+ESTIMATE : 10 mins    ACTUAL :  10 mins
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display, 
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : UTORID : duxuan1 STATUS : Complete 
+NAME     : Token Counter
+OWNER    : Xuan.Du
+PRIORITY : (1,2,3)
+ESTIMATE : 10 mins    ACTUAL :  10 mins
+ISSUE    : When user play, the count for each player is on display. 
+This count shows the 
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : UTORID : duxaun1 STATUS : Complete
+NAME     : Who Won
+OWNER    : Xuan.Du
+PRIORITY : 1
+ESTIMATE : 10 mins    ACTUAL : 10 mins
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.06 : UTORID : quachal5 STATUS : Complete
+NAME     : Change tokens to Images
+OWNER    : Alex Quach
+PRIORITY : (1,2,3)
+ESTIMATE : 4 hours    ACTUAL :  3.5 hours
+ISSUE    : When users are playing and the board is on display, 
+instead of displaying X and O as players, the users see 
+appropriate black/white tokens.
+--------------------------------------------------------------------------

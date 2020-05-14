@@ -1,0 +1,58 @@
+---------------------------------------------------
+CSC207 Lecture 12
+---------------------------------------------------
+
+Final Exam Logistics
+
+Info: http://axiom.utm.utoronto.ca/~207/19f/tests.shtml
+
+Aid allowed: None
+
+API sheets will be provided.
+
+Please note that calculators are NOT allowed.
+
+
+---------------------------------------------------
+
+Larry's Pre-Exam Office Hours (Tentative)
+- Dec 12, 2-4
+- Dec 16, 1-3
+- Dec 18, 1-3
+
+Arnold will send email updates about other office hours. Stay tuned.
+
+---------------------------------------------------
+
+Final Exam Review Tips
+
+What to study?
+
+All the things you practiced in this course, i.e., assignments, labs, lectures.
+- Othello
+- Paint
+- Parsing File
+- Floating point
+- Regular expressions
+- Finite state machines
+- Multithreading
+- MVC
+- GUI, JavaFX
+- Design patterns
+- Git, branches (know how to use the command line)
+- Scrum
+- OO design, inheritance, interface
+- UML
+- JUnit
+- Java reference, pass-by-value
+- Data types
+
+Other things:
+- Past exams: can be found in the Old Exam Repository at UofT library
+	- Practice by simulating the exam environment (pen and paper, time yourself, no aid)
+- Everything else
+
+---------------------------------------------------
+USE THE OFFICE HOURS!!!
+---------------------------------------------------
+

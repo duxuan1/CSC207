@@ -1,0 +1,93 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.07 : UTORID : lushijie STATUS : Complete
+NAME     : Opponent Chooser GUI Selection
+OWNER    : lushijie
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 1 day
+ISSUE    : When users are playing, they see a GUI which allows the user to 
+choose whether to play HumanVSHuman, HumanVSGreedy, HumanVSRandom.
+This user story involves
+just providing the gui for choice. After choosing, log the choice to
+the console, the game actually
+plays HumanVSHuman for now. The user should be able to switch opponents
+at any time during game play. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.071 : UTORID : lushijie STATUS :Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 day 
+ISSUE    : An extension to Opponent Chooser, the current player types
+are on display, so for example, 
+P1: Human  P2: Greedy 
+P1: Random P2: Human
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.078 : UTORID : lushijie STATUS : Complete
+NAME     : Opponent Chooser Partial Implementation
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 day
+ISSUE    : An extension to Opponent Chooser, we hardcode 
+the application, so the user always plays the Greedy Strategy.
+To further simplify this, the user clicks a board position to move.
+Now the user clicks a special button which tells the computer to move.
+So interaction is 
+I click my move, then click COMPUTER_MOVE, then the computer moves, 
+I click my move, then click COMPUTER_MOVE, then the computer moves, 
+I click my move, then click COMPUTER_MOVE, then the computer moves, 
+...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.079 : UTORID : lushijie STATUS : Complete
+NAME     : Opponent Chooser Partial Implementation, no COMPUTER_MOVE button
+OWNER    : lushijie
+PRIORITY : 2
+ESTIMATE : 2 hour    ACTUAL : 1 day
+ISSUE    : An extension to Opponent Chooser Partial Implementation
+Now the interaction with the computer is ...
+I click my move, then the computer moves,
+I click my move, then the computer moves,
+I click my move, then the computer moves,
+I click my move, then the computer moves,
+...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : UTORID : lushijie STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : lushijie
+PRIORITY : 1
+ESTIMATE : 2 hour    ACTUAL : 1 day
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID : liuzechu  STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Othello Timer Fixed Time
+OWNER    : zechuan liu 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : UTORID : liuzechu STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Othello Timer User Specified Time
+OWNER    : zechuan liu 
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------

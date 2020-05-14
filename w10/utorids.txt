@@ -1,0 +1,6 @@
+111111111,utorid1,lec0101,lastName1,firstName1
+222222222,utorid2,lec0202,lastName2,firstName2
+333333333,utorid3,lec0303,lastName3,firstName3
+444444444,utorid4,lec0404,lastName4,firstName4
+555555555,utorid5,lec0505,lastName5,firstName5
+666666666,utorid6,lec0606,lastName6,firstName6
