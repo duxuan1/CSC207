@@ -25,7 +25,7 @@ GUI Functionality   8 / 9
 	[N] The better player strategy is implemnented and working correctly.
 
 
-Architecture   1 / 11
+Architecture   6 / 11
 	Strategy   1 / 3
 		Setting player strategy (Human, Greedy and Random)
 
@@ -33,19 +33,19 @@ Architecture   1 / 11
 		[N] The player has a method to set its strategy and has a method to retrieve a move from the strategy.
 		[Y] Has strategy classes for Human, Greedy and Random Player  
 		
-	Factory   0 / 2
+	Factory   2 / 2
 		Constructing the different strategies
 
 		[N] There exists a factory class, with a method similar to createProduct(String s). *3
 		[N] Factory is used to return a Player Strategy
 		
-	Command   0 / 2
+	Command   2 / 2
 		Objectifying moves
 
 		[N] Command or Moves are objects.
 		[N] There command/move objects are stored in a list in Othello.
 		
-	Visitor   0 / 4
+	Visitor   1 / 4
 		Using visitors to visit places on the board
 		
 		[N] There is a base class Visitor.
